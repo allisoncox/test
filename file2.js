@@ -1,2 +1,4 @@
 var contentName = "&lt;";
-b["test"] = "hello";
+b["test-name"] = "hello";
+
+a["newtest"] = '<weird>not</weird>';
